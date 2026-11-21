@@ -3,9 +3,6 @@
 data/raw/
 data/cleaned/
 
-# Generated dataset metadata
-data/image_hashes.csv
-
 # Local VS Code settings
 .vscode/
 
