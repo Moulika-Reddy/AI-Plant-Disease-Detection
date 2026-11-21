@@ -1,0 +1,28 @@
+
+# Original and cleaned image datasets
+data/raw/
+data/cleaned/
+
+# Generated dataset metadata
+data/image_hashes.csv
+
+# Local VS Code settings
+.vscode/
+
+# Python temporary files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Conda and virtual environments
+.env
+.venv/
+venv/
+
+# Trained model files
+models/*.keras
+models/*.h5
+models/*.weights.h5
+
+# TensorFlow training logs
+logs/
